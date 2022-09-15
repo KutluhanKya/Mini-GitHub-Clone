@@ -1,0 +1,11 @@
+.contain {
+  @apply bg-black    h-full  text-white;
+
+  .lang {
+    @apply italic p-2 mt-5 text-yellow-500 border rounded-md  border-yellow-500;
+  }
+}
+
+.avatar-card {
+  @apply bg-black;
+}
